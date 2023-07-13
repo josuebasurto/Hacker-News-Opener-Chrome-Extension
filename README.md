@@ -10,9 +10,9 @@ It is important to note that host access permissions are requested only for doma
 
 ### Creators
 
-Joshua Basurto
+Josh Basurto
 
-###Issues?
+### Issues?
 
 [Issues, please file an issue here](https://github.com/josuebasurto/Hacker-News-Opener-Chrome-Extension/issues/new/choose)
 
