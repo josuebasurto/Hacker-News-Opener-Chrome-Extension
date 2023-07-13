@@ -8,6 +8,28 @@ Host access permissions allow the extension to communicate with and collect info
 
 It is important to note that host access permissions are requested only for domains directly related to Hacker News. These permissions are required to access the Hacker News API and get up-to-date data on the latest news and links.
 
+### Screenshots
+
+![Screenshot](misc/Screenshot%202023-07-12%20234058.png)
+
+### Not published yet but I want to use it:
+
+* [Download Zip](https://github.com/josuebasurto/Hacker-News-Opener-Chrome-Extension/archive/refs/heads/master.zip)
+
+* Extract Zip 
+
+* [Enter chrome://extensions/](chrome://extensions/)
+
+* Turn on Developer Mode (Up to your right)
+
+* Click "Load Upacked"
+
+* Select folder "Hacker-News-Opener-Chrome-Extension-master\extension"
+
+* You will see Loaded Chrome Extension
+
+* Click the icon to see the action!
+
 ### Creators
 
 Josh Basurto
@@ -16,6 +38,3 @@ Josh Basurto
 
 [Issues, please file an issue here](https://github.com/josuebasurto/Hacker-News-Opener-Chrome-Extension/issues/new/choose)
 
-### Screenshots
-
-![Screenshot](misc/Screenshot%202023-07-12%20234058.png)
