@@ -1,16 +1,20 @@
 # Hacker-News-Opener-Chrome-Extension
 
-### Abre los primeros 5 enlaces de Hacker News en pestañas nuevas
+### Open the first 5 Hacker News links in new tabs
 
-La extensión "Hacker News Opener" solicita permisos de acceso a hosts específicos para brindar a los usuarios una experiencia completa y funcional al interactuar con los enlaces de Hacker News. Estos permisos están justificados y se utilizan de manera responsable para ofrecer un servicio valioso a los usuarios de la extensión.
+The "Hacker News Opener" extension requests access permissions to specific hosts to give users a full and functional experience when interacting with Hacker News links. These permissions are justified and used responsibly to provide a valuable service to users of the extension.
 
-Los permisos de acceso a hosts permiten que la extensión se comunique y recopile información de sitios web específicos relacionados con Hacker News. Esto es necesario para obtener los enlaces más recientes y relevantes de Hacker News, así como para acceder a los contenidos y datos necesarios para proporcionar la funcionalidad de abrir enlaces en nuevas pestañas.
+Host access permissions allow the extension to communicate with and collect information from specific websites related to Hacker News. This is necessary to get the most recent and relevant links from Hacker News, as well as to access the content and data necessary to provide the functionality to open links in new tabs.
 
-Es importante destacar que los permisos de acceso a hosts se solicitan únicamente para los dominios directamente relacionados con Hacker News. Estos permisos son necesarios para acceder a la API de Hacker News y obtener los datos actualizados de los enlaces y noticias más recientes.
+It is important to note that host access permissions are requested only for domains directly related to Hacker News. These permissions are required to access the Hacker News API and get up-to-date data on the latest news and links.
 
-### Creadores
+### Creators
 
-Josue Basurto
+Joshua Basurto
+
+###Issues?
+
+[Issues, please file an issue here](https://github.com/josuebasurto/Hacker-News-Opener-Chrome-Extension/issues/new/choose)
 
 ### Screenshots
 
