@@ -1,0 +1,22 @@
+    body {
+      width: 400px; 
+    }
+    ul {
+      list-style-type: none;
+      padding: 0;
+    }
+
+    li {
+      background-color: #f2f2f2;
+      border-radius: 4px;
+      padding: 8px;
+      margin-bottom: 8px;
+    }
+
+    li:hover {
+      background-color: #e0e0e0;
+    }
+
+    #openBtn {
+      margin-top: 8px;
+    }
