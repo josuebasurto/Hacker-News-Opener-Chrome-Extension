@@ -2,19 +2,20 @@
   "manifest_version": 3,
   "name": "Hacker News Opener",
   "version": "1.0",
-  "description": "Opens the first 5 links of Hacker News in new tabs",
-  "permissions": ["tabs"],
-  "background": {
-    "service_worker": "background.js",
-    "persistent": false
-  },
-  "action": {
-    "default_popup": "popup.html",
-    "default_title": "Open Hacker News"
-  },
+  "description": "Opens Hacker News in a new tab",
   "icons": {
     "16": "icon-16.png",
     "48": "icon-48.png",
     "128": "icon-128.png"
-  },"persistent": true 
+  },
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon-16.png",
+      "48": "icon-48.png",
+      "128": "icon-128.png"
+    }
+  },
+  "permissions": ["scripting"],
+  "host_permissions": ["*://news.ycombinator.com/*"]
 }
